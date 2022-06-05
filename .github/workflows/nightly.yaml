@@ -1,0 +1,23 @@
+---
+name: Scrape `op` releases nightly
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  scrape-releases:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: install pip packages
+        run: pwd && pip install -r requirements.txt
+
+      - name: update op-releases.json
+        run: >-
+          curl -s https://app-updates.agilebits.com/product_history/CLI2 |
+          ./op-release-scraper.py -o op-releases.json
+
+      - uses: EndBug/add-and-commit@v9
