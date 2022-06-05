@@ -1,0 +1,684 @@
+[
+  {
+    "id": "v2040002",
+    "version": "2.4.0",
+    "released": "2022-05-31",
+    "downloads": {
+      "macOS": {
+        "universal": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.4.0/op_apple_universal_v2.4.0.pkg"
+      },
+      "FreeBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.4.0/op_freebsd_386_v2.4.0.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.4.0/op_freebsd_amd64_v2.4.0.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.4.0/op_freebsd_arm_v2.4.0.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.4.0/op_freebsd_arm64_v2.4.0.zip"
+      },
+      "Linux": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.4.0/op_linux_386_v2.4.0.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.4.0/op_linux_amd64_v2.4.0.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.4.0/op_linux_arm_v2.4.0.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.4.0/op_linux_arm64_v2.4.0.zip"
+      },
+      "OpenBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.4.0/op_openbsd_386_v2.4.0.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.4.0/op_openbsd_amd64_v2.4.0.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.4.0/op_openbsd_arm64_v2.4.0.zip"
+      },
+      "Windows": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.4.0/op_windows_386_v2.4.0.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.4.0/op_windows_amd64_v2.4.0.zip"
+      }
+    }
+  },
+  {
+    "id": "v2030101",
+    "version": "2.3.1",
+    "released": "2022-05-24",
+    "downloads": {
+      "macOS": {
+        "universal": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.1/op_apple_universal_v2.3.1.pkg"
+      },
+      "FreeBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.1/op_freebsd_386_v2.3.1.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.1/op_freebsd_amd64_v2.3.1.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.1/op_freebsd_arm_v2.3.1.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.1/op_freebsd_arm64_v2.3.1.zip"
+      },
+      "Linux": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.1/op_linux_386_v2.3.1.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.1/op_linux_amd64_v2.3.1.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.1/op_linux_arm_v2.3.1.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.1/op_linux_arm64_v2.3.1.zip"
+      },
+      "OpenBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.1/op_openbsd_386_v2.3.1.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.1/op_openbsd_amd64_v2.3.1.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.1/op_openbsd_arm64_v2.3.1.zip"
+      },
+      "Windows": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.1/op_windows_386_v2.3.1.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.1/op_windows_amd64_v2.3.1.zip"
+      }
+    }
+  },
+  {
+    "id": "v2030001",
+    "version": "2.3.0",
+    "released": "2022-05-20",
+    "downloads": {
+      "macOS": {
+        "universal": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.0/op_apple_universal_v2.3.0.pkg"
+      },
+      "FreeBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.0/op_freebsd_386_v2.3.0.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.0/op_freebsd_amd64_v2.3.0.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.0/op_freebsd_arm_v2.3.0.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.0/op_freebsd_arm64_v2.3.0.zip"
+      },
+      "Linux": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.0/op_linux_386_v2.3.0.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.0/op_linux_amd64_v2.3.0.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.0/op_linux_arm_v2.3.0.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.0/op_linux_arm64_v2.3.0.zip"
+      },
+      "OpenBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.0/op_openbsd_386_v2.3.0.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.0/op_openbsd_amd64_v2.3.0.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.0/op_openbsd_arm64_v2.3.0.zip"
+      },
+      "Windows": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.0/op_windows_386_v2.3.0.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.3.0/op_windows_amd64_v2.3.0.zip"
+      }
+    }
+  },
+  {
+    "id": "v2020001",
+    "version": "2.2.0",
+    "released": "2022-05-06",
+    "downloads": {
+      "macOS": {
+        "universal": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.2.0/op_apple_universal_v2.2.0.pkg"
+      },
+      "FreeBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.2.0/op_freebsd_386_v2.2.0.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.2.0/op_freebsd_amd64_v2.2.0.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.2.0/op_freebsd_arm_v2.2.0.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.2.0/op_freebsd_arm64_v2.2.0.zip"
+      },
+      "Linux": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.2.0/op_linux_386_v2.2.0.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.2.0/op_linux_amd64_v2.2.0.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.2.0/op_linux_arm_v2.2.0.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.2.0/op_linux_arm64_v2.2.0.zip"
+      },
+      "OpenBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.2.0/op_openbsd_386_v2.2.0.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.2.0/op_openbsd_amd64_v2.2.0.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.2.0/op_openbsd_arm64_v2.2.0.zip"
+      },
+      "Windows": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.2.0/op_windows_386_v2.2.0.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.2.0/op_windows_amd64_v2.2.0.zip"
+      }
+    }
+  },
+  {
+    "id": "v2010001",
+    "version": "2.1.0",
+    "released": "2022-04-25",
+    "downloads": {
+      "macOS": {
+        "universal": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.1.0/op_apple_universal_v2.1.0.pkg"
+      },
+      "FreeBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.1.0/op_freebsd_386_v2.1.0.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.1.0/op_freebsd_amd64_v2.1.0.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.1.0/op_freebsd_arm_v2.1.0.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.1.0/op_freebsd_arm64_v2.1.0.zip"
+      },
+      "Linux": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.1.0/op_linux_386_v2.1.0.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.1.0/op_linux_amd64_v2.1.0.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.1.0/op_linux_arm_v2.1.0.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.1.0/op_linux_arm64_v2.1.0.zip"
+      },
+      "OpenBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.1.0/op_openbsd_386_v2.1.0.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.1.0/op_openbsd_amd64_v2.1.0.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.1.0/op_openbsd_arm64_v2.1.0.zip"
+      },
+      "Windows": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.1.0/op_windows_386_v2.1.0.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.1.0/op_windows_amd64_v2.1.0.zip"
+      }
+    }
+  },
+  {
+    "id": "v2000201",
+    "version": "2.0.2",
+    "released": "2022-04-20",
+    "downloads": {
+      "macOS": {
+        "universal": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.2/op_apple_universal_v2.0.2.pkg"
+      },
+      "FreeBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.2/op_freebsd_386_v2.0.2.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.2/op_freebsd_amd64_v2.0.2.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.2/op_freebsd_arm_v2.0.2.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.2/op_freebsd_arm64_v2.0.2.zip"
+      },
+      "Linux": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.2/op_linux_386_v2.0.2.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.2/op_linux_amd64_v2.0.2.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.2/op_linux_arm_v2.0.2.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.2/op_linux_arm64_v2.0.2.zip"
+      },
+      "OpenBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.2/op_openbsd_386_v2.0.2.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.2/op_openbsd_amd64_v2.0.2.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.2/op_openbsd_arm64_v2.0.2.zip"
+      },
+      "Windows": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.2/op_windows_386_v2.0.2.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.2/op_windows_amd64_v2.0.2.zip"
+      }
+    }
+  },
+  {
+    "id": "v2000102",
+    "version": "2.0.1",
+    "released": "2022-04-17",
+    "downloads": {
+      "macOS": {
+        "universal": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.1/op_apple_universal_v2.0.1.pkg"
+      },
+      "FreeBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.1/op_freebsd_386_v2.0.1.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.1/op_freebsd_amd64_v2.0.1.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.1/op_freebsd_arm_v2.0.1.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.1/op_freebsd_arm64_v2.0.1.zip"
+      },
+      "Linux": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.1/op_linux_386_v2.0.1.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.1/op_linux_amd64_v2.0.1.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.1/op_linux_arm_v2.0.1.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.1/op_linux_arm64_v2.0.1.zip"
+      },
+      "OpenBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.1/op_openbsd_386_v2.0.1.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.1/op_openbsd_amd64_v2.0.1.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.1/op_openbsd_arm64_v2.0.1.zip"
+      },
+      "Windows": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.1/op_windows_386_v2.0.1.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.1/op_windows_amd64_v2.0.1.zip"
+      }
+    }
+  },
+  {
+    "id": "v2000019",
+    "version": "2.0.0",
+    "released": "2022-03-10",
+    "downloads": {
+      "macOS": {
+        "universal": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0/op_apple_universal_v2.0.0.pkg"
+      },
+      "FreeBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0/op_freebsd_386_v2.0.0.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0/op_freebsd_amd64_v2.0.0.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0/op_freebsd_arm_v2.0.0.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0/op_freebsd_arm64_v2.0.0.zip"
+      },
+      "Linux": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0/op_linux_386_v2.0.0.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0/op_linux_amd64_v2.0.0.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0/op_linux_arm_v2.0.0.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0/op_linux_arm64_v2.0.0.zip"
+      },
+      "OpenBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0/op_openbsd_386_v2.0.0.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0/op_openbsd_amd64_v2.0.0.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0/op_openbsd_arm64_v2.0.0.zip"
+      },
+      "Windows": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0/op_windows_386_v2.0.0.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0/op_windows_amd64_v2.0.0.zip"
+      }
+    }
+  },
+  {
+    "id": "v2000018",
+    "version": "2.0.0-beta.16",
+    "released": "2022-03-09",
+    "downloads": {
+      "macOS": {
+        "universal": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.16/op_apple_universal_v2.0.0-beta.16.pkg"
+      },
+      "FreeBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.16/op_freebsd_386_v2.0.0-beta.16.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.16/op_freebsd_amd64_v2.0.0-beta.16.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.16/op_freebsd_arm_v2.0.0-beta.16.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.16/op_freebsd_arm64_v2.0.0-beta.16.zip"
+      },
+      "Linux": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.16/op_linux_386_v2.0.0-beta.16.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.16/op_linux_amd64_v2.0.0-beta.16.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.16/op_linux_arm_v2.0.0-beta.16.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.16/op_linux_arm64_v2.0.0-beta.16.zip"
+      },
+      "OpenBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.16/op_openbsd_386_v2.0.0-beta.16.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.16/op_openbsd_amd64_v2.0.0-beta.16.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.16/op_openbsd_arm64_v2.0.0-beta.16.zip"
+      },
+      "Windows": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.16/op_windows_386_v2.0.0-beta.16.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.16/op_windows_amd64_v2.0.0-beta.16.zip"
+      }
+    }
+  },
+  {
+    "id": "v2000017",
+    "version": "2.0.0-beta.15",
+    "released": "2022-03-08",
+    "downloads": {
+      "macOS": {
+        "universal": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.15/op_apple_universal_v2.0.0-beta.15.pkg"
+      },
+      "FreeBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.15/op_freebsd_386_v2.0.0-beta.15.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.15/op_freebsd_amd64_v2.0.0-beta.15.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.15/op_freebsd_arm_v2.0.0-beta.15.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.15/op_freebsd_arm64_v2.0.0-beta.15.zip"
+      },
+      "Linux": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.15/op_linux_386_v2.0.0-beta.15.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.15/op_linux_amd64_v2.0.0-beta.15.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.15/op_linux_arm_v2.0.0-beta.15.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.15/op_linux_arm64_v2.0.0-beta.15.zip"
+      },
+      "OpenBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.15/op_openbsd_386_v2.0.0-beta.15.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.15/op_openbsd_amd64_v2.0.0-beta.15.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.15/op_openbsd_arm64_v2.0.0-beta.15.zip"
+      },
+      "Windows": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.15/op_windows_386_v2.0.0-beta.15.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.15/op_windows_amd64_v2.0.0-beta.15.zip"
+      }
+    }
+  },
+  {
+    "id": "v2000016",
+    "version": "2.0.0-beta.14",
+    "released": "2022-03-04",
+    "downloads": {
+      "macOS": {
+        "universal": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.14/op_apple_universal_v2.0.0-beta.14.pkg"
+      },
+      "FreeBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.14/op_freebsd_386_v2.0.0-beta.14.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.14/op_freebsd_amd64_v2.0.0-beta.14.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.14/op_freebsd_arm_v2.0.0-beta.14.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.14/op_freebsd_arm64_v2.0.0-beta.14.zip"
+      },
+      "Linux": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.14/op_linux_386_v2.0.0-beta.14.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.14/op_linux_amd64_v2.0.0-beta.14.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.14/op_linux_arm_v2.0.0-beta.14.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.14/op_linux_arm64_v2.0.0-beta.14.zip"
+      },
+      "OpenBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.14/op_openbsd_386_v2.0.0-beta.14.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.14/op_openbsd_amd64_v2.0.0-beta.14.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.14/op_openbsd_arm64_v2.0.0-beta.14.zip"
+      },
+      "Windows": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.14/op_windows_386_v2.0.0-beta.14.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.14/op_windows_amd64_v2.0.0-beta.14.zip"
+      }
+    }
+  },
+  {
+    "id": "v2000015",
+    "version": "2.0.0-beta.13",
+    "released": "2022-02-24",
+    "downloads": {
+      "macOS": {
+        "universal": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.13/op_apple_universal_v2.0.0-beta.13.pkg"
+      },
+      "FreeBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.13/op_freebsd_386_v2.0.0-beta.13.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.13/op_freebsd_amd64_v2.0.0-beta.13.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.13/op_freebsd_arm_v2.0.0-beta.13.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.13/op_freebsd_arm64_v2.0.0-beta.13.zip"
+      },
+      "Linux": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.13/op_linux_386_v2.0.0-beta.13.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.13/op_linux_amd64_v2.0.0-beta.13.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.13/op_linux_arm_v2.0.0-beta.13.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.13/op_linux_arm64_v2.0.0-beta.13.zip"
+      },
+      "OpenBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.13/op_openbsd_386_v2.0.0-beta.13.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.13/op_openbsd_amd64_v2.0.0-beta.13.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.13/op_openbsd_arm64_v2.0.0-beta.13.zip"
+      },
+      "Windows": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.13/op_windows_386_v2.0.0-beta.13.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.13/op_windows_amd64_v2.0.0-beta.13.zip"
+      }
+    }
+  },
+  {
+    "id": "v2000014",
+    "version": "2.0.0-beta.12",
+    "released": "2022-01-28",
+    "downloads": {
+      "macOS": {
+        "universal": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.12/op_apple_universal_v2.0.0-beta.12.pkg"
+      },
+      "FreeBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.12/op_freebsd_386_v2.0.0-beta.12.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.12/op_freebsd_amd64_v2.0.0-beta.12.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.12/op_freebsd_arm_v2.0.0-beta.12.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.12/op_freebsd_arm64_v2.0.0-beta.12.zip"
+      },
+      "Linux": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.12/op_linux_386_v2.0.0-beta.12.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.12/op_linux_amd64_v2.0.0-beta.12.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.12/op_linux_arm_v2.0.0-beta.12.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.12/op_linux_arm64_v2.0.0-beta.12.zip"
+      },
+      "OpenBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.12/op_openbsd_386_v2.0.0-beta.12.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.12/op_openbsd_amd64_v2.0.0-beta.12.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.12/op_openbsd_arm64_v2.0.0-beta.12.zip"
+      },
+      "Windows": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.12/op_windows_386_v2.0.0-beta.12.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.12/op_windows_amd64_v2.0.0-beta.12.zip"
+      }
+    }
+  },
+  {
+    "id": "v2000013",
+    "version": "2.0.0-beta.11",
+    "released": "2022-01-26",
+    "downloads": {
+      "macOS": {
+        "universal": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.11/op_apple_universal_v2.0.0-beta.11.pkg"
+      },
+      "FreeBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.11/op_freebsd_386_v2.0.0-beta.11.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.11/op_freebsd_amd64_v2.0.0-beta.11.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.11/op_freebsd_arm_v2.0.0-beta.11.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.11/op_freebsd_arm64_v2.0.0-beta.11.zip"
+      },
+      "Linux": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.11/op_linux_386_v2.0.0-beta.11.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.11/op_linux_amd64_v2.0.0-beta.11.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.11/op_linux_arm_v2.0.0-beta.11.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.11/op_linux_arm64_v2.0.0-beta.11.zip"
+      },
+      "OpenBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.11/op_openbsd_386_v2.0.0-beta.11.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.11/op_openbsd_amd64_v2.0.0-beta.11.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.11/op_openbsd_arm64_v2.0.0-beta.11.zip"
+      },
+      "Windows": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.11/op_windows_386_v2.0.0-beta.11.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.11/op_windows_amd64_v2.0.0-beta.11.zip"
+      }
+    }
+  },
+  {
+    "id": "v2000012",
+    "version": "2.0.0-beta.10",
+    "released": "2022-01-24",
+    "downloads": {
+      "macOS": {
+        "universal": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.10/op_apple_universal_v2.0.0-beta.10.pkg"
+      },
+      "FreeBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.10/op_freebsd_386_v2.0.0-beta.10.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.10/op_freebsd_amd64_v2.0.0-beta.10.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.10/op_freebsd_arm_v2.0.0-beta.10.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.10/op_freebsd_arm64_v2.0.0-beta.10.zip"
+      },
+      "Linux": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.10/op_linux_386_v2.0.0-beta.10.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.10/op_linux_amd64_v2.0.0-beta.10.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.10/op_linux_arm_v2.0.0-beta.10.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.10/op_linux_arm64_v2.0.0-beta.10.zip"
+      },
+      "OpenBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.10/op_openbsd_386_v2.0.0-beta.10.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.10/op_openbsd_amd64_v2.0.0-beta.10.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.10/op_openbsd_arm64_v2.0.0-beta.10.zip"
+      },
+      "Windows": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.10/op_windows_386_v2.0.0-beta.10.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.10/op_windows_amd64_v2.0.0-beta.10.zip"
+      }
+    }
+  },
+  {
+    "id": "v2000011",
+    "version": "2.0.0-beta.9",
+    "released": "2022-01-17",
+    "downloads": {
+      "macOS": {
+        "universal": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.9/op_apple_universal_v2.0.0-beta.9.pkg"
+      },
+      "FreeBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.9/op_freebsd_386_v2.0.0-beta.9.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.9/op_freebsd_amd64_v2.0.0-beta.9.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.9/op_freebsd_arm_v2.0.0-beta.9.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.9/op_freebsd_arm64_v2.0.0-beta.9.zip"
+      },
+      "Linux": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.9/op_linux_386_v2.0.0-beta.9.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.9/op_linux_amd64_v2.0.0-beta.9.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.9/op_linux_arm_v2.0.0-beta.9.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.9/op_linux_arm64_v2.0.0-beta.9.zip"
+      },
+      "OpenBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.9/op_openbsd_386_v2.0.0-beta.9.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.9/op_openbsd_amd64_v2.0.0-beta.9.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.9/op_openbsd_arm64_v2.0.0-beta.9.zip"
+      },
+      "Windows": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.9/op_windows_386_v2.0.0-beta.9.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.9/op_windows_amd64_v2.0.0-beta.9.zip"
+      }
+    }
+  },
+  {
+    "id": "v2000010",
+    "version": "2.0.0-beta.8",
+    "released": "2022-01-11",
+    "downloads": {
+      "macOS": {
+        "universal": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.8/op_apple_universal_v2.0.0-beta.8.pkg"
+      },
+      "FreeBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.8/op_freebsd_386_v2.0.0-beta.8.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.8/op_freebsd_amd64_v2.0.0-beta.8.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.8/op_freebsd_arm_v2.0.0-beta.8.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.8/op_freebsd_arm64_v2.0.0-beta.8.zip"
+      },
+      "Linux": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.8/op_linux_386_v2.0.0-beta.8.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.8/op_linux_amd64_v2.0.0-beta.8.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.8/op_linux_arm_v2.0.0-beta.8.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.8/op_linux_arm64_v2.0.0-beta.8.zip"
+      },
+      "OpenBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.8/op_openbsd_386_v2.0.0-beta.8.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.8/op_openbsd_amd64_v2.0.0-beta.8.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.8/op_openbsd_arm64_v2.0.0-beta.8.zip"
+      },
+      "Windows": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.8/op_windows_386_v2.0.0-beta.8.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.8/op_windows_amd64_v2.0.0-beta.8.zip"
+      }
+    }
+  },
+  {
+    "id": "v2000007",
+    "version": "2.0.0-beta.7",
+    "released": "2021-12-07",
+    "downloads": {
+      "macOS": {
+        "universal": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.7/op_apple_universal_v2.0.0-beta.7.pkg"
+      },
+      "FreeBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.7/op_freebsd_386_v2.0.0-beta.7.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.7/op_freebsd_amd64_v2.0.0-beta.7.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.7/op_freebsd_arm_v2.0.0-beta.7.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.7/op_freebsd_arm64_v2.0.0-beta.7.zip"
+      },
+      "Linux": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.7/op_linux_386_v2.0.0-beta.7.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.7/op_linux_amd64_v2.0.0-beta.7.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.7/op_linux_arm_v2.0.0-beta.7.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.7/op_linux_arm64_v2.0.0-beta.7.zip"
+      },
+      "OpenBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.7/op_openbsd_386_v2.0.0-beta.7.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.7/op_openbsd_amd64_v2.0.0-beta.7.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.7/op_openbsd_arm64_v2.0.0-beta.7.zip"
+      },
+      "Windows": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.7/op_windows_386_v2.0.0-beta.7.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.7/op_windows_amd64_v2.0.0-beta.7.zip"
+      }
+    }
+  },
+  {
+    "id": "v2000006",
+    "version": "2.0.0-beta.6",
+    "released": "2021-11-26",
+    "downloads": {
+      "macOS": {
+        "universal": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.6/op_apple_universal_v2.0.0-beta.6.pkg"
+      },
+      "FreeBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.6/op_freebsd_386_v2.0.0-beta.6.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.6/op_freebsd_amd64_v2.0.0-beta.6.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.6/op_freebsd_arm_v2.0.0-beta.6.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.6/op_freebsd_arm64_v2.0.0-beta.6.zip"
+      },
+      "Linux": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.6/op_linux_386_v2.0.0-beta.6.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.6/op_linux_amd64_v2.0.0-beta.6.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.6/op_linux_arm_v2.0.0-beta.6.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.6/op_linux_arm64_v2.0.0-beta.6.zip"
+      },
+      "OpenBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.6/op_openbsd_386_v2.0.0-beta.6.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.6/op_openbsd_amd64_v2.0.0-beta.6.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.6/op_openbsd_arm64_v2.0.0-beta.6.zip"
+      },
+      "Windows": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.6/op_windows_386_v2.0.0-beta.6.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.6/op_windows_amd64_v2.0.0-beta.6.zip"
+      }
+    }
+  },
+  {
+    "id": "v2000005",
+    "version": "2.0.0-beta.5",
+    "released": "2021-11-22",
+    "downloads": {
+      "macOS": {
+        "universal": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.5/op_apple_universal_v2.0.0-beta.5.pkg"
+      },
+      "FreeBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.5/op_freebsd_386_v2.0.0-beta.5.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.5/op_freebsd_amd64_v2.0.0-beta.5.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.5/op_freebsd_arm_v2.0.0-beta.5.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.5/op_freebsd_arm64_v2.0.0-beta.5.zip"
+      },
+      "Linux": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.5/op_linux_386_v2.0.0-beta.5.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.5/op_linux_amd64_v2.0.0-beta.5.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.5/op_linux_arm_v2.0.0-beta.5.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.5/op_linux_arm64_v2.0.0-beta.5.zip"
+      },
+      "OpenBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.5/op_openbsd_386_v2.0.0-beta.5.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.5/op_openbsd_amd64_v2.0.0-beta.5.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.5/op_openbsd_arm64_v2.0.0-beta.5.zip"
+      },
+      "Windows": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.5/op_windows_386_v2.0.0-beta.5.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.5/op_windows_amd64_v2.0.0-beta.5.zip"
+      }
+    }
+  },
+  {
+    "id": "v2000004",
+    "version": "2.0.0-beta.4",
+    "released": "2021-11-05",
+    "downloads": {
+      "macOS": {
+        "universal": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.4/op_apple_universal_v2.0.0-beta.4.pkg"
+      },
+      "FreeBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.4/op_freebsd_386_v2.0.0-beta.4.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.4/op_freebsd_amd64_v2.0.0-beta.4.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.4/op_freebsd_arm_v2.0.0-beta.4.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.4/op_freebsd_arm64_v2.0.0-beta.4.zip"
+      },
+      "Linux": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.4/op_linux_386_v2.0.0-beta.4.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.4/op_linux_amd64_v2.0.0-beta.4.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.4/op_linux_arm_v2.0.0-beta.4.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.4/op_linux_arm64_v2.0.0-beta.4.zip"
+      },
+      "OpenBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.4/op_openbsd_386_v2.0.0-beta.4.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.4/op_openbsd_amd64_v2.0.0-beta.4.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.4/op_openbsd_arm64_v2.0.0-beta.4.zip"
+      },
+      "Windows": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.4/op_windows_386_v2.0.0-beta.4.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.4/op_windows_amd64_v2.0.0-beta.4.zip"
+      }
+    }
+  },
+  {
+    "id": "v2000003",
+    "version": "2.0.0-beta.3",
+    "released": "2021-10-07",
+    "downloads": {
+      "macOS": {
+        "universal": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.3/op_apple_universal_v2.0.0-beta.3.pkg"
+      },
+      "FreeBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.3/op_freebsd_386_v2.0.0-beta.3.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.3/op_freebsd_amd64_v2.0.0-beta.3.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.3/op_freebsd_arm_v2.0.0-beta.3.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.3/op_freebsd_arm64_v2.0.0-beta.3.zip"
+      },
+      "Linux": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.3/op_linux_386_v2.0.0-beta.3.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.3/op_linux_amd64_v2.0.0-beta.3.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.3/op_linux_arm_v2.0.0-beta.3.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.3/op_linux_arm64_v2.0.0-beta.3.zip"
+      },
+      "OpenBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.3/op_openbsd_386_v2.0.0-beta.3.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.3/op_openbsd_amd64_v2.0.0-beta.3.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.3/op_openbsd_arm64_v2.0.0-beta.3.zip"
+      },
+      "Windows": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.3/op_windows_386_v2.0.0-beta.3.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.0.0-beta.3/op_windows_amd64_v2.0.0-beta.3.zip"
+      }
+    }
+  }
+]
