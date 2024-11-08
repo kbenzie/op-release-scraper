@@ -1,5 +1,36 @@
 [
   {
+    "id": "v2300301",
+    "version": "2.30.3",
+    "released": "2024-11-07",
+    "downloads": {
+      "macOS": {
+        "universal": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.30.3/op_apple_universal_v2.30.3.pkg"
+      },
+      "FreeBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.30.3/op_freebsd_386_v2.30.3.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.30.3/op_freebsd_amd64_v2.30.3.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.30.3/op_freebsd_arm_v2.30.3.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.30.3/op_freebsd_arm64_v2.30.3.zip"
+      },
+      "Linux": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.30.3/op_linux_386_v2.30.3.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.30.3/op_linux_amd64_v2.30.3.zip",
+        "arm": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.30.3/op_linux_arm_v2.30.3.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.30.3/op_linux_arm64_v2.30.3.zip"
+      },
+      "OpenBSD": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.30.3/op_openbsd_386_v2.30.3.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.30.3/op_openbsd_amd64_v2.30.3.zip",
+        "arm64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.30.3/op_openbsd_arm64_v2.30.3.zip"
+      },
+      "Windows": {
+        "386": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.30.3/op_windows_386_v2.30.3.zip",
+        "amd64": "https://cache.agilebits.com/dist/1P/op2/pkg/v2.30.3/op_windows_amd64_v2.30.3.zip"
+      }
+    }
+  },
+  {
     "id": "v2300006",
     "version": "2.30.0",
     "released": "2024-07-29",
